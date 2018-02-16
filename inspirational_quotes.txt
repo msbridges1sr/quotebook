@@ -1,3 +1,3 @@
-do or do not, there is no try -Yoda
+This is a inspirational quotes text file.
 
-It always seems impossible until its done - Nelson Mandela
+This is something green.
