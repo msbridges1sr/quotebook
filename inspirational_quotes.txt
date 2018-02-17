@@ -3,3 +3,5 @@ This is a inspirational quotes text file.
 This is something green.
 
 hello spock
+
+The best way to predict the future is to create it.
